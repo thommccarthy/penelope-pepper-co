@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/penelope-pepper-co/static/css/main.6f843199.chunk.css",
+    "main.js": "/penelope-pepper-co/static/js/main.3420524d.chunk.js",
+    "main.js.map": "/penelope-pepper-co/static/js/main.3420524d.chunk.js.map",
+    "runtime-main.js": "/penelope-pepper-co/static/js/runtime-main.093ae3b5.js",
+    "runtime-main.js.map": "/penelope-pepper-co/static/js/runtime-main.093ae3b5.js.map",
+    "static/css/2.31461e4f.chunk.css": "/penelope-pepper-co/static/css/2.31461e4f.chunk.css",
+    "static/js/2.5a7ed0d0.chunk.js": "/penelope-pepper-co/static/js/2.5a7ed0d0.chunk.js",
+    "static/js/2.5a7ed0d0.chunk.js.map": "/penelope-pepper-co/static/js/2.5a7ed0d0.chunk.js.map",
+    "static/js/3.0baa3ee3.chunk.js": "/penelope-pepper-co/static/js/3.0baa3ee3.chunk.js",
+    "static/js/3.0baa3ee3.chunk.js.map": "/penelope-pepper-co/static/js/3.0baa3ee3.chunk.js.map",
+    "index.html": "/penelope-pepper-co/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/penelope-pepper-co/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.6f843199.chunk.css.map": "/penelope-pepper-co/static/css/main.6f843199.chunk.css.map",
+    "static/js/2.5a7ed0d0.chunk.js.LICENSE.txt": "/penelope-pepper-co/static/js/2.5a7ed0d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.093ae3b5.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.5a7ed0d0.chunk.js",
+    "static/css/main.6f843199.chunk.css",
+    "static/js/main.3420524d.chunk.js"
+  ]
+}
