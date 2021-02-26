@@ -21,7 +21,7 @@ function App() {
         <Switch>
           <Route exact path='/' component={MainAd} />
 
-          <Route exact path='/store' component={Store} />
+          <Route path='/store' component={Store} />
         </Switch>
         <HomeBanner />
         <Footer />
