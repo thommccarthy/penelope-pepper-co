@@ -4,21 +4,28 @@ import Navbar from './components/Navbar';
 import MainAd from './components/MainAd';
 import Footer from './components/Footer';
 import HomeBanner from './components/Home/HomeBanner';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import {
+  BrowserRouter as Router,
+  HashRouter,
+  Switch,
+  Redirect,
+  Route,
+} from 'react-router-dom';
 import Store from './components/Store/Store';
 
 function App() {
   return (
     <div className='App'>
-      <Router>
+      <HashRouter basename='/'>
         <Navbar />
         <Switch>
           <Route exact path='/' component={MainAd} />
+
           <Route exact path='/store' component={Store} />
         </Switch>
         <HomeBanner />
         <Footer />
-      </Router>
+      </HashRouter>
     </div>
   );
 }
