@@ -6,13 +6,14 @@ export class MainAd extends Component {
       <div>
         <article data-name='article-full-bleed-background'>
           <div className='cf bgbody'>
-            <div className='fl pa3 pa4-ns bg-white black-70 measure-narrow f3 times'>
-              <header class='bb b--black-70 pv4'>
-                <h3 class='f2 fw7 ttu tracked lh-title mt0 mb3 avenir'>
-                  It's pepper time
+            <div className='fl pa3 pa4-ns bg-light-red navy measure-narrow f3 times'>
+              <header className='bb b--black-70 pv4'>
+                <h3 className='f2 fw7 ttu tracked lh-title mt0 mb3 avenir '>
+                  It's pepper time!
                 </h3>
-                <h4 class='f3 fw4 i lh-title mt0'>
-                  Philadelphia, Pennsylvania
+                <h4 className='f3 fw4 lh-title mt0'>
+                  in Philadelphia, Pennsylvania
+                  <i className='fas fa-pepper-hot ml4'></i>
                 </h4>
               </header>
               <section class='pt5 pb4'>

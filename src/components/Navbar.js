@@ -10,6 +10,7 @@ export class Navbar extends Component {
             href='#'
             title='Home'
           >
+            <i className='fas fa-pepper-hot navpep mr3'></i>
             Penelope Pepper Co.
           </a>
           <div class='tc pb3 flex  justify-center justify-around'>
