@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 
 export class Navbar extends Component {
   render() {
@@ -16,13 +17,14 @@ export class Navbar extends Component {
           <div class='tc pb3 flex  justify-center justify-around'>
             <div />
             <div />
-            <a
+            <Link
               class='link dim washed-blue f5 f2-ns dib mr3'
               href='#'
               title='Home'
+              to='/'
             >
               Home
-            </a>
+            </Link>
 
             <a
               class='link dim washed-blue f6 f2-ns dib mr3'
@@ -31,13 +33,14 @@ export class Navbar extends Component {
             >
               About
             </a>
-            <a
+            <Link
               class='link dim washed-blue f6 f2-ns dib mr3'
               href='#'
               title='Store'
+              to='/Store'
             >
               Store
-            </a>
+            </Link>
             <a
               class='link dim washed-blue f6 f2-ns dib'
               href='#'

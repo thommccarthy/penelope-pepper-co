@@ -7,3 +7,12 @@
     no-repeat center center fixed;
   background-size: cover;
 }
+
+.choc {
+  height: 40%;
+  width: 40%;
+}
+
+.storeCard {
+  margin: 20px;
+}
