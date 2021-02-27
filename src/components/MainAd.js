@@ -6,7 +6,10 @@ export class MainAd extends Component {
       <div>
         <article data-name='article-full-bleed-background'>
           <div className='cf bgbody'>
-            <div className='fl pa3 pa4-ns bg-light-red navy measure-narrow f3 times'>
+            <div
+              className='fl pa3 pa4-ns bg-light-red navy measure-narrow f3 times'
+              id='pepperTime'
+            >
               <header className='bb b--black-70 pv4'>
                 <h3 className='f2 fw7 ttu tracked lh-title mt0 mb3 avenir '>
                   It's pepper time!

@@ -11,7 +11,7 @@ import {
   Redirect,
   Route,
 } from 'react-router-dom';
-import Store from './components/Store/Store';
+import Store from './components/store/Store';
 
 function App() {
   return (

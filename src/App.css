@@ -16,3 +16,13 @@
 .storeCard {
   margin: 20px;
 }
+
+@media only screen and (max-width: 600px) {
+  #pepperTime {
+    background-color: rgba(255, 114, 92, 0.9);
+  }
+}
+
+.navlinks:focus {
+  outline: 0 !important;
+}

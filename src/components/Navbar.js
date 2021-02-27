@@ -5,20 +5,20 @@ export class Navbar extends Component {
   render() {
     return (
       <div>
-        <nav class=' bg-green pa3 pa4-ns'>
+        <nav className=' bg-green pa3 pa4-ns'>
           <a
-            class='navhead link dim washed-red b f3 f-headline-ns tc db mb3 mb4-ns'
+            className='navhead link washed-red b f3 f-headline-ns tc db mb3 mb4-ns hover-near-white'
             href='#'
             title='Home'
           >
-            <i className='fas fa-pepper-hot navpep mr3'></i>
+            <i className='fas fa-pepper-hot navpep mr3 red hover-orange'></i>
             Penelope Pepper Co.
           </a>
-          <div class='tc pb3 flex  justify-center justify-around'>
+          <div className='tc pb3 flex  justify-center justify-around'>
             <div />
             <div />
             <Link
-              class='link dim washed-blue f5 f2-ns dib mr3'
+              className='navlinks link washed-blue f5 f2-ns dib mr3 hover-purple'
               href='#'
               title='Home'
               to='/'
@@ -27,14 +27,14 @@ export class Navbar extends Component {
             </Link>
 
             <a
-              class='link dim washed-blue f6 f2-ns dib mr3'
+              className='navlinks link washed-blue f5 f2-ns dib mr3 hover-pink'
               href='#'
               title='About'
             >
               About
             </a>
             <Link
-              class='link dim washed-blue f6 f2-ns dib mr3'
+              className='navlinks link hover-gold washed-blue f5 f2-ns dib mr3'
               href='#'
               title='Store'
               to='/Store'
@@ -42,7 +42,7 @@ export class Navbar extends Component {
               Store
             </Link>
             <a
-              class='link dim washed-blue f6 f2-ns dib'
+              className='navlinks link hover-hot-pink washed-blue f5 f2-ns dib'
               href='#'
               title='Contact'
             >
