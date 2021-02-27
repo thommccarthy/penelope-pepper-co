@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/penelope-pepper-co/static/css/main.97c703f0.chunk.css",
-    "main.js": "/penelope-pepper-co/static/js/main.1684e68c.chunk.js",
-    "main.js.map": "/penelope-pepper-co/static/js/main.1684e68c.chunk.js.map",
+    "main.css": "/penelope-pepper-co/static/css/main.365abf7b.chunk.css",
+    "main.js": "/penelope-pepper-co/static/js/main.82cb35ab.chunk.js",
+    "main.js.map": "/penelope-pepper-co/static/js/main.82cb35ab.chunk.js.map",
     "runtime-main.js": "/penelope-pepper-co/static/js/runtime-main.59d50aaf.js",
     "runtime-main.js.map": "/penelope-pepper-co/static/js/runtime-main.59d50aaf.js.map",
     "static/css/2.31461e4f.chunk.css": "/penelope-pepper-co/static/css/2.31461e4f.chunk.css",
-    "static/js/2.264b84cb.chunk.js": "/penelope-pepper-co/static/js/2.264b84cb.chunk.js",
-    "static/js/2.264b84cb.chunk.js.map": "/penelope-pepper-co/static/js/2.264b84cb.chunk.js.map",
+    "static/js/2.9a4f829d.chunk.js": "/penelope-pepper-co/static/js/2.9a4f829d.chunk.js",
+    "static/js/2.9a4f829d.chunk.js.map": "/penelope-pepper-co/static/js/2.9a4f829d.chunk.js.map",
     "static/js/3.0cd265b1.chunk.js": "/penelope-pepper-co/static/js/3.0cd265b1.chunk.js",
     "static/js/3.0cd265b1.chunk.js.map": "/penelope-pepper-co/static/js/3.0cd265b1.chunk.js.map",
     "index.html": "/penelope-pepper-co/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/penelope-pepper-co/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.97c703f0.chunk.css.map": "/penelope-pepper-co/static/css/main.97c703f0.chunk.css.map",
-    "static/js/2.264b84cb.chunk.js.LICENSE.txt": "/penelope-pepper-co/static/js/2.264b84cb.chunk.js.LICENSE.txt"
+    "static/css/main.365abf7b.chunk.css.map": "/penelope-pepper-co/static/css/main.365abf7b.chunk.css.map",
+    "static/js/2.9a4f829d.chunk.js.LICENSE.txt": "/penelope-pepper-co/static/js/2.9a4f829d.chunk.js.LICENSE.txt",
+    "static/media/chocolate.d7eaec84.png": "/penelope-pepper-co/static/media/chocolate.d7eaec84.png",
+    "static/media/ghost.7f43d092.png": "/penelope-pepper-co/static/media/ghost.7f43d092.png",
+    "static/media/habanero.04edfd8f.png": "/penelope-pepper-co/static/media/habanero.04edfd8f.png",
+    "static/media/scorpion.a0527638.png": "/penelope-pepper-co/static/media/scorpion.a0527638.png",
+    "static/media/yellowbhut.bd40508c.png": "/penelope-pepper-co/static/media/yellowbhut.bd40508c.png",
+    "static/media/yellowreaper.6deddd4b.png": "/penelope-pepper-co/static/media/yellowreaper.6deddd4b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.59d50aaf.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.264b84cb.chunk.js",
-    "static/css/main.97c703f0.chunk.css",
-    "static/js/main.1684e68c.chunk.js"
+    "static/js/2.9a4f829d.chunk.js",
+    "static/css/main.365abf7b.chunk.css",
+    "static/js/main.82cb35ab.chunk.js"
   ]
 }
