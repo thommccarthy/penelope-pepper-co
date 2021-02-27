@@ -1,9 +1,4 @@
 import React, { Component } from 'react';
-import yellowbhut from './media/yellowbhut.png';
-import chocolate from './media/chocolate.png';
-import ghost from './media/ghost.png';
-import scorpion from './media/scorpion.png';
-import Store from './Store';
 
 export class ProductCard extends Component {
   constructor(props) {
@@ -13,7 +8,7 @@ export class ProductCard extends Component {
     return (
       <div className='storeCard'>
         <h1>
-          <article className='br2 ba dark-gray b--black-10 mv4  mw5 center shadow-3 grow'>
+          <article className='singlecard br2 ba  dark-gray b--black-10 w5  center shadow-3 grow'>
             <img
               src={this.props.pepper.img}
               className='choc db br2 br--top center'
@@ -28,7 +23,7 @@ export class ProductCard extends Component {
                   <h2 className='f5 mv0'>{this.props.pepper.price}</h2>
                 </div>
               </div>
-              <p className='f6 lh-copy measure mt2 mid-gray'>
+              <p className='f6 lh-copy measure mt2 mid-gray h4'>
                 {this.props.pepper.desc}
               </p>
             </div>

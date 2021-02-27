@@ -4,6 +4,8 @@ import yellowbhut from './media/yellowbhut.png';
 import chocolate from './media/chocolate.png';
 import ghost from './media/ghost.png';
 import scorpion from './media/scorpion.png';
+import yellowreaper from './media/yellowreaper.png';
+import habanero from './media/habanero.png';
 
 class Store extends Component {
   constructor() {
@@ -15,7 +17,7 @@ class Store extends Component {
           img: chocolate,
           price: '$12',
           desc:
-            'The chocolate habanero has an exotic and unusual taste, and is hotter than a regular habanero with a rating between 425,000 and 577,000 Scoville units. Small slivers used in cooking can have a dramatic effect on the overall dish.',
+            'The chocolate habanero has an exotic and unusual taste, and is hotter than a regular habanero with a top rating of 577,000 Scoville units. Small slivers used in cooking can have a dramatic effect on the overall dish.',
         },
         {
           type: 'Yellow Bhut',
@@ -35,6 +37,18 @@ class Store extends Component {
           price: '$15',
           desc: 'From trinidad!',
         },
+        {
+          type: 'Yellow Reaper',
+          img: yellowreaper,
+          price: '$20',
+          desc: 'Yellow Carolina Reaper',
+        },
+        {
+          type: 'Habanero',
+          img: habanero,
+          price: '$7',
+          desc: 'Classic',
+        },
       ],
     };
   }
@@ -48,7 +62,8 @@ class Store extends Component {
     });
     return (
       <div className='bg-light-green'>
-        <div className='flex flex-wrap pa5 '>{productCards}</div>
+        <div className='tc pt3'>Here's what's in stock:</div>
+        <div className='flex flex-wrap pa3'>{productCards}</div>
       </div>
     );
   }
