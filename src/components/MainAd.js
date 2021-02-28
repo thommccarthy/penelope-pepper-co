@@ -15,16 +15,17 @@ export class MainAd extends Component {
                   It's pepper time!
                 </h3>
                 <h4 className='f3 fw4 lh-title mt0'>
-                  in Philadelphia, Pennsylvania
+                  from Philadelphia, Pennsylvania
                   <i className='fas fa-pepper-hot ml4'></i>
                 </h4>
               </header>
               <section class='pt5 pb4'>
                 <p class='times lh-copy measure f4 mt0'>
-                  Penelope's peppers brings the heat from fair trade pepper
-                  growers from around the globe. We carry a huge variety of
-                  incredibly delicious peppers, ranging from deliciously sweet
-                  bells to the transcendantly hot Naga Mega Scorpion.
+                  Penelope Pepper Co brings the heat from fair trade pepper
+                  growers from around the globe. We specialize in hard to find,
+                  exotic superhot strains that will put your tolerance to the
+                  limit! Our product range starts at deliciously sweet Habaneros
+                  to the transcendantly hot Naga Mega Scorpion.
                   <p>
                     We sell fresh, dried, seeds, plants and flakes. We have
                     something special for your perfect spicy recipe!

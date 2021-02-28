@@ -24,6 +24,8 @@ export class Footer extends Component {
               Privacy
             </a>
           </div>
+          <i class='fab fa-instagram center ma4 dim f1'></i>
+          <i class='fab fa-facebook-f dim f1 pa3'></i>
         </footer>
       </div>
     );

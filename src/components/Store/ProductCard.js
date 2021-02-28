@@ -8,7 +8,7 @@ export class ProductCard extends Component {
     return (
       <div className='storeCard'>
         <h1>
-          <article className='singlecard br2 ba  dark-gray b--black-10 w5  center shadow-3 grow'>
+          <article className='singlecard br2 ba  red b--black-10 w5  center shadow-2 grow cardback'>
             <img
               src={this.props.pepper.img}
               className='choc db br2 br--top center'

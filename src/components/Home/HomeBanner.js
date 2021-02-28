@@ -4,6 +4,7 @@ class HomeBanner extends Component {
   render() {
     return (
       <div>
+        <div className='zigzag'></div>
         <section class='ph3 ph5-ns pv5 '>
           <article class='mw8 center br2 ba b--pink bg-yellow shadow-3'>
             <div class='dt-ns dt--fixed-ns w-100'>

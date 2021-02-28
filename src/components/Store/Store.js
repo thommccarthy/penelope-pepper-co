@@ -62,7 +62,7 @@ class Store extends Component {
     });
     return (
       <div className='bg-light-green'>
-        <div className='tc pt3'>Here's what's in stock:</div>
+        <div className='tc pt3 f2 georgia dark-red'></div>
         <div className='flex flex-wrap pa3'>{productCards}</div>
       </div>
     );

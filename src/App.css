@@ -29,3 +29,18 @@
 
 .singlecard {
 }
+
+.patternline {
+  background-image: radial-gradient(currentColor 1px, transparent 1px),
+    radial-gradient(currentColor 1px, transparent 1px);
+  background-size: calc(20 * 1px) calc(20 * 1px);
+  background-position: 0 0, calc(10 * 1px) calc(10 * 1px);
+}
+
+.zigzag {
+  background: linear-gradient(135deg, currentColor 25%, transparent 25%) -11px -0px,
+    linear-gradient(225deg, currentColor 25%, transparent 25%) -10px 0,
+    linear-gradient(315deg, currentColor 25%, transparent 25%),
+    linear-gradient(45deg, currentColor 25%, transparent 25%);
+  background-size: calc(2 * 10px) calc(2 * 8px);
+}

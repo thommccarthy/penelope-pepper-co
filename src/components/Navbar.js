@@ -5,6 +5,9 @@ export class Navbar extends Component {
   render() {
     return (
       <div>
+        <div className='tc bg-light-red near-white'>
+          Open Monday-Saturday! 1424 Foxyball St., West Phila.
+        </div>
         <nav className=' bg-green pa3 pa4-ns'>
           <a
             className='navhead link washed-red b f3 f-headline-ns tc db mb3 mb4-ns hover-near-white'
@@ -49,9 +52,11 @@ export class Navbar extends Component {
               Contact
             </a>
             <div />
+
             <div />
           </div>
         </nav>
+        <div className='zigzag h1 w-100 center light-red bg-light-gray'></div>
       </div>
     );
   }
