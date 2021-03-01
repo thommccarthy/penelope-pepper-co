@@ -12,6 +12,7 @@ import {
   Route,
 } from 'react-router-dom';
 import Store from './components/store/Store';
+import HomeCarousel from './components/Home/HomeCarousel';
 
 function App() {
   return (

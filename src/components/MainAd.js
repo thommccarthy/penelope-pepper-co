@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import HomeCarousel from './Home/HomeCarousel';
 
 export class MainAd extends Component {
   render() {
@@ -35,6 +36,7 @@ export class MainAd extends Component {
             </div>
           </div>
         </article>
+        <HomeCarousel />
       </div>
     );
   }

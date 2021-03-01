@@ -5,8 +5,8 @@ export class Navbar extends Component {
   render() {
     return (
       <div>
-        <div className='tc bg-light-red near-white'>
-          Open Monday-Saturday! 1424 Foxyball St., West Phila.
+        <div className='tc bg-gold navy'>
+          Open Monday-Saturday! 1424 Foxyball St. // West Phila.
         </div>
         <nav className=' bg-green pa3 pa4-ns'>
           <a
@@ -14,9 +14,10 @@ export class Navbar extends Component {
             href='#'
             title='Home'
           >
-            <i className='fas fa-pepper-hot navpep mr3 red hover-orange'></i>
+            <i className='fas fa-pepper-hot navpep mr3 red hover-gold'></i>
             Penelope Pepper Co.
           </a>
+
           <div className='tc pb3 flex  justify-center justify-around'>
             <div />
             <div />
@@ -56,7 +57,7 @@ export class Navbar extends Component {
             <div />
           </div>
         </nav>
-        <div className='zigzag h1 w-100 center light-red bg-light-gray'></div>
+        <div className='zigzag h1 w-100 center gold bg-light-gray'></div>
       </div>
     );
   }
