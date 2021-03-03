@@ -17,13 +17,14 @@ class Store extends Component {
           img: chocolate,
           price: '$12',
           desc:
-            'The chocolate habanero has an exotic and unusual taste, and is hotter than a regular habanero with a top rating of 577,000 Scoville units. Small slivers used in cooking can have a dramatic effect on the overall dish.',
+            'The chocolate habanero has an exotic and unusual taste, and is hotter than a regular habanero with a top rating of 577,000 Scoville units. ',
         },
         {
           type: 'Yellow Bhut',
           img: yellowbhut,
           price: '$10',
-          desc: 'Yellow ghost pepper',
+          desc:
+            'The Yellow Bhut Jolokia is a natural variant of the red Bhut Jolokia, but with a better flavor. It has a sweet and fruity bhut jolokia flavor with citrus undertones.',
         },
         {
           type: 'Ghost Pepper',

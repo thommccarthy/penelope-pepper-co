@@ -4,7 +4,7 @@ export class Footer extends Component {
   render() {
     return (
       <div>
-        <footer class='ph3 ph4-ns pv6 bt b--black-10 black-70'>
+        <footer class='ph3 ph4-ns pv3 bt b--black-10 black-70'>
           <a href='mailto:' class='link b f3 f2-ns dim black-70 lh-solid'>
             hello@penelopepepperco.com
           </a>

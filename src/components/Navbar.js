@@ -6,11 +6,11 @@ export class Navbar extends Component {
     return (
       <div>
         <div className='tc bg-gold navy'>
-          Open Monday-Saturday! 1424 Foxyball St. // West Phila.
+          Open Monday-Saturday! Only in West Phila.
         </div>
         <nav className=' bg-green pa3 pa4-ns'>
           <a
-            className='navhead link washed-red b f3 f-headline-ns tc db mb3 mb4-ns hover-near-white'
+            className='navhead link washed-red b f2 f-headline-ns tc db mb3 mb4-ns hover-near-white'
             href='#'
             title='Home'
           >

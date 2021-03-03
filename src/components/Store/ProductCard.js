@@ -11,10 +11,10 @@ export class ProductCard extends Component {
           <article className='singlecard br2 ba  red b--black-10 w5  center shadow-2 grow cardback'>
             <img
               src={this.props.pepper.img}
-              className='choc db br2 br--top center'
+              className='choc db br2 br--top center pt4 mw100'
               alt='pepper'
             />
-            <div className='pa2 ph3-ns pb3-ns'>
+            <div className='pa2 pt3 ph3-ns pb3-ns'>
               <div className='dt w-100 mt1'>
                 <div className='dtc'>
                   <h1 className='f5 f4-ns mv0'>{this.props.pepper.type}</h1>

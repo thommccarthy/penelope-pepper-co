@@ -1,8 +1,11 @@
-body {
+@font-face {
+  font-family: 'BDC_Brush';
+  src: url('./BDC_Brush Fire-Dry.otf') format('opentype');
 }
 
 .navhead {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  font-family: 'BDC_Brush';
 }
 
 .bgbody {
