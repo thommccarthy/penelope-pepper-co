@@ -14,7 +14,6 @@ class HomeCarousel extends Component {
   render() {
     return (
       <div>
-        {flameleft}
         <div className='carouselGrid mt6'>
           <div
             id='carousel'
