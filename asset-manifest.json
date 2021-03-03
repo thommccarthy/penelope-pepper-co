@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/penelope-pepper-co/static/css/main.57ba58d4.chunk.css",
-    "main.js": "/penelope-pepper-co/static/js/main.019d137a.chunk.js",
-    "main.js.map": "/penelope-pepper-co/static/js/main.019d137a.chunk.js.map",
+    "main.css": "/penelope-pepper-co/static/css/main.151b32ab.chunk.css",
+    "main.js": "/penelope-pepper-co/static/js/main.1e59c7b4.chunk.js",
+    "main.js.map": "/penelope-pepper-co/static/js/main.1e59c7b4.chunk.js.map",
     "runtime-main.js": "/penelope-pepper-co/static/js/runtime-main.fb65e67f.js",
     "runtime-main.js.map": "/penelope-pepper-co/static/js/runtime-main.fb65e67f.js.map",
     "static/css/2.6ed7eba4.chunk.css": "/penelope-pepper-co/static/css/2.6ed7eba4.chunk.css",
@@ -12,10 +12,12 @@
     "static/js/3.85b121b4.chunk.js.map": "/penelope-pepper-co/static/js/3.85b121b4.chunk.js.map",
     "index.html": "/penelope-pepper-co/index.html",
     "static/css/2.6ed7eba4.chunk.css.map": "/penelope-pepper-co/static/css/2.6ed7eba4.chunk.css.map",
-    "static/css/main.57ba58d4.chunk.css.map": "/penelope-pepper-co/static/css/main.57ba58d4.chunk.css.map",
+    "static/css/main.151b32ab.chunk.css.map": "/penelope-pepper-co/static/css/main.151b32ab.chunk.css.map",
     "static/js/2.0427ef96.chunk.js.LICENSE.txt": "/penelope-pepper-co/static/js/2.0427ef96.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/penelope-pepper-co/static/media/BDC_Brush Fire-Dry.76d3eeb1.otf",
     "static/media/chocolate.d7eaec84.png": "/penelope-pepper-co/static/media/chocolate.d7eaec84.png",
     "static/media/chocolateslide.969c3077.png": "/penelope-pepper-co/static/media/chocolateslide.969c3077.png",
+    "static/media/flameleft.59244681.svg": "/penelope-pepper-co/static/media/flameleft.59244681.svg",
     "static/media/ghost.7f43d092.png": "/penelope-pepper-co/static/media/ghost.7f43d092.png",
     "static/media/habanero.04edfd8f.png": "/penelope-pepper-co/static/media/habanero.04edfd8f.png",
     "static/media/scorpion.a0527638.png": "/penelope-pepper-co/static/media/scorpion.a0527638.png",
@@ -32,7 +34,7 @@
     "static/js/runtime-main.fb65e67f.js",
     "static/css/2.6ed7eba4.chunk.css",
     "static/js/2.0427ef96.chunk.js",
-    "static/css/main.57ba58d4.chunk.css",
-    "static/js/main.019d137a.chunk.js"
+    "static/css/main.151b32ab.chunk.css",
+    "static/js/main.1e59c7b4.chunk.js"
   ]
 }
