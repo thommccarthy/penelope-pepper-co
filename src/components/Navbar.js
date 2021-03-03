@@ -10,7 +10,7 @@ export class Navbar extends Component {
         </div>
         <nav className=' bg-green pa3 pa4-ns'>
           <a
-            className='navhead link washed-red b f2 f-headline-ns tc db mb3 mb4-ns hover-near-white'
+            className='navhead link washed-red b f3 f-headline-ns tc db mb3 mb4-ns hover-near-white'
             href='#'
             title='Home'
           >
@@ -22,7 +22,7 @@ export class Navbar extends Component {
             <div />
             <div />
             <Link
-              className='navlinks link washed-blue f5 f2-ns dib mr3 hover-purple'
+              className='navlinks link washed-blue f4 f2-ns dib mr3 hover-purple'
               href='#'
               title='Home'
               to='/'
@@ -31,14 +31,14 @@ export class Navbar extends Component {
             </Link>
 
             <a
-              className='navlinks link washed-blue f5 f2-ns dib mr3 hover-pink'
+              className='navlinks link washed-blue f4 f2-ns dib mr3 hover-pink'
               href='#'
               title='About'
             >
               About
             </a>
             <Link
-              className='navlinks link hover-gold washed-blue f5 f2-ns dib mr3'
+              className='navlinks link hover-gold washed-blue f4 f2-ns dib mr3'
               href='#'
               title='Store'
               to='/Store'
@@ -46,7 +46,7 @@ export class Navbar extends Component {
               Store
             </Link>
             <a
-              className='navlinks link hover-hot-pink washed-blue f5 f2-ns dib'
+              className='navlinks link hover-hot-pink washed-blue f4 f2-ns dib'
               href='#'
               title='Contact'
             >
