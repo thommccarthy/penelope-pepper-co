@@ -10,7 +10,7 @@ export class Navbar extends Component {
         </div>
         <nav className=' bg-green pa3 pa4-ns'>
           <a
-            className='navhead link washed-red b f3 f-headline-ns tc db mb3 mb4-ns hover-near-white'
+            className='navhead link washed-red b f1 f-headline-ns tc db mb3 mb4-ns hover-near-white'
             href='#'
             title='Home'
           >
